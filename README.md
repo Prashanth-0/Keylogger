@@ -18,11 +18,11 @@ This is a simple Python keylogger that captures keystrokes and reports them remo
    git clone https://github.com/Prashanth-0/keylogger.git
 
 
-1. *Set up the server:* Ensure you have a server running to receive the keystrokes. Update the ATTACKER_IP and ATTACKER_PORT variables in the keylogger.py script with the appropriate server IP address and port.
+1. **Set up the server:** Ensure you have a server running to receive the keystrokes. Update the ATTACKER_IP and ATTACKER_PORT variables in the keylogger.py script with the appropriate server IP address and port.
 
-2. *Run the keylogger:* Execute the keylogger.py script on the target system you wish to monitor. The keylogger will start capturing keystrokes and sending them to the specified server.
+2. **Run the keylogger:** Execute the keylogger.py script on the target system you wish to monitor. The keylogger will start capturing keystrokes and sending them to the specified server.
 
-3. *Receive keystrokes:* On the attacker machine, use netcat to listen for incoming connections on the specified port and receive the captured keystrokes.
+3. **Receive keystrokes:** On the attacker machine, use netcat to listen for incoming connections on the specified port and receive the captured keystrokes.
 
 
 ## Requirements
