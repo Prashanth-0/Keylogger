@@ -27,9 +27,9 @@ This is a simple Python keylogger that captures keystrokes and reports them remo
 
 ## Requirements
 
-- Python 3.x
-- Netcat utility
-- Keyboard library (pip install keyboard)
+- `Python 3.x`
+- `Netcat utility`
+- `Keyboard library (pip install keyboard)`
 
 
 ## Disclaimer
