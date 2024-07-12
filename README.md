@@ -1,6 +1,5 @@
 # Keylogger with Remote Reporting
 
-[![Total Downloads](http://poser.pugx.org/Prashanth-0/Keylogger/downloads)](https://packagist.org/packages/Prashanth-0/Keylogger)
 
 This is a simple Python keylogger that captures keystrokes and reports them remotely to a specified server. It can be used for educational purposes or as a part of a security testing toolkit. Please use responsibly and only on systems you have explicit permission to monitor.
 
